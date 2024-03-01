@@ -1,3 +1,6 @@
 [submodule "sadl"]
 	path = sadl
 	url = https://github.com/InterDigitalInc/SADL.git
+[submodule "DCVC"]
+	path = DCVC
+	url = /DCVC
